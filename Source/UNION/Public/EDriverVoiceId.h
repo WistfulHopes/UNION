@@ -1,0 +1,48 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "EDriverVoiceId.generated.h"
+
+UENUM(BlueprintType)
+enum class EDriverVoiceId : uint8 {
+    DashLv1,
+    DashLv2,
+    DashLv3,
+    Spin,
+    ContactRivalWin,
+    ContactRivalLose,
+    ContactWall,
+    StartDashLv1,
+    StartDashLv2,
+    StartDashLv3,
+    StartDashFailed,
+    Slipstream,
+    StuntFinished,
+    PackageRingGet,
+    ItemUseThrowing,
+    ItemDamage,
+    CourseObjectCollision,
+    TravelgateFix,
+    ItemUseInstallation,
+    ItemHit,
+    CarOvertake,
+    UseMonstertruck,
+    UseSummon,
+    DamageMonstertruck,
+    DamageBodycut,
+    CourseOutFall,
+    CourseOutSlow,
+    Stunt01,
+    Stunt02,
+    LobbyStanp001,
+    LobbyStanp002,
+    LobbyStanp003,
+    LobbyStanp004,
+    LobbyStanp005,
+    LobbyStanp006,
+    LobbyStanp007,
+    LobbyStanp008,
+    MenuOperationLeave,
+    CharacterSelectFIX,
+    Num,
+};
+

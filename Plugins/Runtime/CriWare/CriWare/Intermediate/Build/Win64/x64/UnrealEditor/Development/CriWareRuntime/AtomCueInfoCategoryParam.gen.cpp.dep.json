@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atomcueinfocategoryparam.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\criwareruntime\\definitions.criwareruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\atomcueinfocategoryparam.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atomcueinfocategoryparam.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

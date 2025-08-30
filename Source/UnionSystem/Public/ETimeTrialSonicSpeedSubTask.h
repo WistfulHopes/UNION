@@ -1,0 +1,48 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "ETimeTrialSonicSpeedSubTask.generated.h"
+
+UENUM(BlueprintType)
+enum ETimeTrialSonicSpeedSubTask : uint64 {
+    TimeTrial_SonicSpeed_None,
+    STG1016_SonicSpeed = 1LL << 0LL,
+    STG1017_SonicSpeed = 1LL << 1LL,
+    STG1018_SonicSpeed = 1LL << 2LL,
+    STG1029_SonicSpeed = 1LL << 3LL,
+    STG1005_SonicSpeed = 1LL << 4LL,
+    STG1026_SonicSpeed = 1LL << 5LL,
+    STG1027_SonicSpeed = 1LL << 6LL,
+    STG1025_SonicSpeed = 1LL << 7LL,
+    STG1024_SonicSpeed = 1LL << 8LL,
+    STG1028_SonicSpeed = 1LL << 9LL,
+    STG1032_SonicSpeed = 1LL << 10LL,
+    STG1033_SonicSpeed = 1LL << 11LL,
+    STG1022_SonicSpeed = 1LL << 12LL,
+    STG1003_SonicSpeed = 1LL << 13LL,
+    STG1030_SonicSpeed = 1LL << 14LL,
+    STG1020_SonicSpeed = 1LL << 15LL,
+    STG1001_SonicSpeed = 1LL << 16LL,
+    STG1034_SonicSpeed = 1LL << 17LL,
+    STG1023_SonicSpeed = 1LL << 18LL,
+    STG1021_SonicSpeed = 1LL << 19LL,
+    STG1031_SonicSpeed = 1LL << 20LL,
+    STG1035_SonicSpeed = 1LL << 21LL,
+    STG1036_SonicSpeed = 1LL << 22LL,
+    STG1037_SonicSpeed = 1LL << 23LL,
+    STG2009_SonicSpeed = 1LL << 24LL,
+    STG2014_SonicSpeed = 1LL << 25LL,
+    STG2003_SonicSpeed = 1LL << 26LL,
+    STG2004_SonicSpeed = 1LL << 27LL,
+    STG2005_SonicSpeed = 1LL << 28LL,
+    STG2007_SonicSpeed = 1LL << 29LL,
+    STG2001_SonicSpeed = 1LL << 30LL,
+    STG2010_SonicSpeed = 1LL << 31LL,
+    STG2011_SonicSpeed = 1LL << 32LL,
+    STG2012_SonicSpeed = 1LL << 33LL,
+    STG2002_SonicSpeed = 1LL << 34LL,
+    STG2015_SonicSpeed = 1LL << 35LL,
+    STG2016_SonicSpeed = 1LL << 36LL,
+    STG2017_SonicSpeed = 1LL << 37LL,
+    STG2019_SonicSpeed = 1LL << 38LL,
+};
+

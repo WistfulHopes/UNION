@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinioutputobject.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\houdiniengineruntime\\definitions.houdiniengineruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdinioutputobject.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdinicurveoutputproperties.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudinicurvemethod.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudinicurvemethod.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudinicurveoutputtype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudinicurveoutputtype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudinicurvetype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudinicurvetype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinicurveoutputproperties.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdinidatalayer.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinidatalayer.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdinihlodlayer.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinihlodlayer.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdinilevelinstanceparams.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\engine\\public\\levelinstance\\levelinstancetypes.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\engine\\public\\worldpartition\\worldpartitionactorcontainerid.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\worldpartitionactorcontainerid.generated.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\levelinstancetypes.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinilevelinstanceparams.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinioutputobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

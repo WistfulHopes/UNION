@@ -1,0 +1,48 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "ETimeTrialSuperSonicSpeedSubTask.generated.h"
+
+UENUM(BlueprintType)
+enum ETimeTrialSuperSonicSpeedSubTask : uint64 {
+    TimeTrial_SuperSonicSpeed_None,
+    STG1016_SuperSonicSpeed = 1LL << 0LL,
+    STG1017_SuperSonicSpeed = 1LL << 1LL,
+    STG1018_SuperSonicSpeed = 1LL << 2LL,
+    STG1029_SuperSonicSpeed = 1LL << 3LL,
+    STG1005_SuperSonicSpeed = 1LL << 4LL,
+    STG1026_SuperSonicSpeed = 1LL << 5LL,
+    STG1027_SuperSonicSpeed = 1LL << 6LL,
+    STG1025_SuperSonicSpeed = 1LL << 7LL,
+    STG1024_SuperSonicSpeed = 1LL << 8LL,
+    STG1028_SuperSonicSpeed = 1LL << 9LL,
+    STG1032_SuperSonicSpeed = 1LL << 10LL,
+    STG1033_SuperSonicSpeed = 1LL << 11LL,
+    STG1022_SuperSonicSpeed = 1LL << 12LL,
+    STG1003_SuperSonicSpeed = 1LL << 13LL,
+    STG1030_SuperSonicSpeed = 1LL << 14LL,
+    STG1020_SuperSonicSpeed = 1LL << 15LL,
+    STG1001_SuperSonicSpeed = 1LL << 16LL,
+    STG1034_SuperSonicSpeed = 1LL << 17LL,
+    STG1023_SuperSonicSpeed = 1LL << 18LL,
+    STG1021_SuperSonicSpeed = 1LL << 19LL,
+    STG1031_SuperSonicSpeed = 1LL << 20LL,
+    STG1035_SuperSonicSpeed = 1LL << 21LL,
+    STG1036_SuperSonicSpeed = 1LL << 22LL,
+    STG1037_SuperSonicSpeed = 1LL << 23LL,
+    STG2009_SuperSonicSpeed = 1LL << 24LL,
+    STG2014_SuperSonicSpeed = 1LL << 25LL,
+    STG2003_SuperSonicSpeed = 1LL << 26LL,
+    STG2004_SuperSonicSpeed = 1LL << 27LL,
+    STG2005_SuperSonicSpeed = 1LL << 28LL,
+    STG2007_SuperSonicSpeed = 1LL << 29LL,
+    STG2001_SuperSonicSpeed = 1LL << 30LL,
+    STG2010_SuperSonicSpeed = 1LL << 31LL,
+    STG2011_SuperSonicSpeed = 1LL << 32LL,
+    STG2012_SuperSonicSpeed = 1LL << 33LL,
+    STG2002_SuperSonicSpeed = 1LL << 34LL,
+    STG2015_SuperSonicSpeed = 1LL << 35LL,
+    STG2016_SuperSonicSpeed = 1LL << 36LL,
+    STG2017_SuperSonicSpeed = 1LL << 37LL,
+    STG2019_SuperSonicSpeed = 1LL << 38LL,
+};
+

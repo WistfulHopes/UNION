@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criwarecinematics\\source\\criwaremoviescenes\\private\\criwaremoviescenesmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criwarecinematics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\criwaremoviescenes\\definitions.criwaremoviescenes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\private\\atomcueinfo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\criwareruntime\\definitions.criwareruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\atomcueinfo.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\atomattenuationdistanceparam.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atomattenuationdistanceparam.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atomcueinfo.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

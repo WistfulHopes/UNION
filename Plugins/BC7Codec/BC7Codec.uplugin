@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BC7Codec",
+	"Description": "BC7 Compressor",
+	"Category": "Other",
+	"CreatedBy": "t-sakai",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BC7Codec",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [
+				"Win64",
+				"PS4",
+				"PS5",
+				"XB1",
+				"XSX",
+				"Switch"
+			],
+			"TargetConfigurationAllowList": [
+				"Debug",
+				"DebugGame",
+				"Development",
+				"Test",
+				"Shipping"
+			]
+		}
+	]
+}

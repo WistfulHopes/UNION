@@ -1,0 +1,28 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "EResultCameraProductionType.generated.h"
+
+UENUM(BlueprintType)
+enum class EResultCameraProductionType : uint8 {
+    DEFAULT,
+    GO_AROUND_CLOCKWISE,
+    GO_AROUND_CLOCKWISE_COUNTER,
+    REAR_VIEW,
+    FRONT_VIEW,
+    DIAGONALLY_BACK_LEFT,
+    DIAGONALLY_BACK_RIGHT,
+    DIAGONALLY_FRONT_LEFT,
+    DIAGONALLY_FRONT_RIGHT,
+    CUSTOM_PATTERN_1,
+    CUSTOM_PATTERN_2,
+    CUSTOM_PATTERN_3,
+    CUSTOM_PATTERN_4,
+    CUSTOM_PATTERN_5,
+    CUSTOM_PATTERN_6,
+    CUSTOM_PATTERN_7,
+    CUSTOM_PATTERN_8,
+    CUSTOM_PATTERN_9,
+    CUSTOM_PATTERN_10,
+    NUM,
+};
+

@@ -1,0 +1,5 @@
+#include "MasterDataGetMasterDataResponse_MstGeneralizedParameterData.h"
+
+FMasterDataGetMasterDataResponse_MstGeneralizedParameterData::FMasterDataGetMasterDataResponse_MstGeneralizedParameterData() {
+}
+

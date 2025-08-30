@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substancegraphdesc.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\substancecore\\definitions.substancecore.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\source\\substancecore\\public\\substancegraphdesc.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substancegraphdesc.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

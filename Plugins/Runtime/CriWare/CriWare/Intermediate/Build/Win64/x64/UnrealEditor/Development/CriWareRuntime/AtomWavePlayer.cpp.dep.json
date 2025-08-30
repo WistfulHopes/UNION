@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\private\\atomwaveplayer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\criwareruntime\\definitions.criwareruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\atomwaveplayer.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\atomwaveinfo.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\eatomformat.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\eatomformat.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atomwaveinfo.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\eatomwaveplaystate.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\eatomwaveplaystate.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\onwavefinisheddelegate.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\onwavefinisheddelegate.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\onwaveplaybackpercentdelegate.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\onwaveplaybackpercentdelegate.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atomwaveplayer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdiniparameterfolderlist.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\houdiniengineruntime\\definitions.houdiniengineruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdiniparameterfolderlist.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdiniparameter.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudiniparameterchoicelisttype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudiniparameterchoicelisttype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudiniparametertype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudiniparametertype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdiniparameter.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdiniparameterfolderlist.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

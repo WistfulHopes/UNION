@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\private\\manasoundcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\criwareruntime\\definitions.criwareruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\manasoundcomponent.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\atomaisaccontrolparam.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atomaisaccontrolparam.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\emanaplayertrack.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\emanaplayertrack.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\manasoundcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

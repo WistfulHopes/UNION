@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\private\\houdinigeopartobject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\houdiniengineruntime\\definitions.houdiniengineruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdinigeopartobject.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudiniinstancertype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudiniinstancertype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudiniparttype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudiniparttype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdinigenericattribute.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\eattribowner.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\eattribowner.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\eattribstoragetype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\eattribstoragetype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinigenericattribute.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdinimeshsocket.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinimeshsocket.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdinigeopartobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

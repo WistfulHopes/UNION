@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdiniinputactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\houdiniengineruntime\\definitions.houdiniengineruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdiniinputactor.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdiniinputobject.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudiniinputobjecttype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudiniinputobjecttype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\houdiniinputobjectsettings.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudinilandscapeexporttype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudinilandscapeexporttype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\source\\houdiniengineruntime\\public\\ehoudinixformtype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\ehoudinixformtype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdiniinputobjectsettings.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdiniinputobject.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\houdiniengine\\intermediate\\build\\win64\\unrealeditor\\inc\\houdiniengineruntime\\uht\\houdiniinputactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

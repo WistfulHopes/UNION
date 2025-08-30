@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atom3dregion.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\criwareruntime\\definitions.criwareruntime.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\source\\criwareruntime\\public\\atom3dregion.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criware\\intermediate\\build\\win64\\unrealeditor\\inc\\criwareruntime\\uht\\atom3dregion.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

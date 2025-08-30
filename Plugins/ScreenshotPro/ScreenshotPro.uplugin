@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.0.7",
+	"FriendlyName": "Screenshot Pro",
+	"Description": "A tool to help speed up the process of capturing many High Resolution Screenshots",
+	"Category": "JKelly Utilities",
+	"CreatedBy": "James Kelly",
+	"CreatedByURL": "https://twitter.com/jkelly206",
+	"DocsURL": "https://docs.google.com/document/d/14EMGIm3BXNdgde6IDoMQLdbvHYrJubPHykZa_G2WoX8/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/243f48cf14c841cc985d96c545b28418",
+	"SupportURL": "https://discord.gg/7AUwnva7ge",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaIOFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		}
+	]
+}

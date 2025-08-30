@@ -1,0 +1,5 @@
+#include "MasterDataGetMasterDataResponse_MstDlcTeaserData.h"
+
+FMasterDataGetMasterDataResponse_MstDlcTeaserData::FMasterDataGetMasterDataResponse_MstDlcTeaserData() {
+}
+

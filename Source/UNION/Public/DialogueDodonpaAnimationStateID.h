@@ -1,0 +1,45 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "DialogueDodonpaAnimationStateID.generated.h"
+
+UENUM(BlueprintType)
+enum class DialogueDodonpaAnimationStateID : uint8 {
+    OutIdle,
+    Idle,
+    Event1In,
+    Event1Act2,
+    Event1Act3,
+    Event1Act4,
+    Event1Act5,
+    Event1Act6,
+    Event1Out,
+    Event2In,
+    Event2Act2,
+    Event2Act3,
+    Event2Act4,
+    Event2Act5,
+    Event2Out,
+    Event3In,
+    Event3Act2,
+    Event3Act3,
+    Event3Act4,
+    Event3Act5,
+    Event3Out,
+    Event4In,
+    Event4Act2,
+    Event4Act3,
+    Event4Act4,
+    Event4Act5,
+    Event4Act6,
+    Event4Out,
+    Event5In,
+    Event5Act2,
+    Event5Act3,
+    Event5Act4,
+    Event5Act5,
+    Event5Act6,
+    Event5Act7,
+    Event5Out,
+    Num,
+};
+

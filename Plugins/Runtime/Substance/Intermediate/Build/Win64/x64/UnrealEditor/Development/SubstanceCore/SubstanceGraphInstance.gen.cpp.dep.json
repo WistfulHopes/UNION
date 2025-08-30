@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substancegraphinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\substancecore\\definitions.substancecore.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\source\\substancecore\\public\\substancegraphinstance.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\source\\substancecore\\public\\esubstanceinputtype.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\esubstanceinputtype.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\source\\substancecore\\public\\substancefloatinputdesc.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\source\\substancecore\\public\\substanceinputdesc.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substanceinputdesc.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substancefloatinputdesc.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\source\\substancecore\\public\\substanceinstancedesc.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substanceinstancedesc.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\source\\substancecore\\public\\substanceintinputdesc.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substanceintinputdesc.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\source\\substancecore\\public\\substancepreset.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substancepreset.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\substance\\intermediate\\build\\win64\\unrealeditor\\inc\\substancecore\\uht\\substancegraphinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

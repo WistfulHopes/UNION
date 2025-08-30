@@ -1,0 +1,42 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criwarecinematics\\intermediate\\build\\win64\\unrealeditor\\inc\\criwaremoviescenes\\uht\\moviescenemanasection.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\union\\dev\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criwarecinematics\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\criwaremoviescenes\\definitions.criwaremoviescenes.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criwarecinematics\\source\\criwaremoviescenes\\public\\moviescenemanasection.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\coreuobject\\public\\serialization\\testundeclaredscriptstructobjectreferences.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\union\\dev\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\moviescenesection.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\evaluation\\blending\\moviesceneblendtype.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\uht\\moviesceneblendtype.generated.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\evaluation\\moviescenecompletionmode.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\uht\\moviescenecompletionmode.generated.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\evaluation\\moviesceneevaluationcustomversion.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\eventhandlers\\isectioneventhandler.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\eventhandlers\\moviescenedataeventcontainer.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\moviescenefwd.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\moviescenesequenceid.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\entitysystem\\moviescenecomponentdebug.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\entitysystem\\moviesceneentitysystemtypes.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\entitysystem\\moviesceneentityids.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\uht\\moviescenesequenceid.generated.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\uht\\moviescenefwd.generated.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\moviesceneframemigration.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\uht\\moviesceneframemigration.generated.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\moviescenesignedobject.h",
+            "c:\\union\\dev\\engine\\source\\runtime\\moviescene\\public\\eventhandlers\\isignedobjecteventhandler.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\uht\\moviescenesignedobject.generated.h",
+            "c:\\union\\dev\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\uht\\moviescenesection.generated.h",
+            "c:\\union\\dev\\union\\plugins\\runtime\\criware\\criwarecinematics\\intermediate\\build\\win64\\unrealeditor\\inc\\criwaremoviescenes\\uht\\moviescenemanasection.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

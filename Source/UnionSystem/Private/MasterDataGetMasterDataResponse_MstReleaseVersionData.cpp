@@ -1,0 +1,5 @@
+#include "MasterDataGetMasterDataResponse_MstReleaseVersionData.h"
+
+FMasterDataGetMasterDataResponse_MstReleaseVersionData::FMasterDataGetMasterDataResponse_MstReleaseVersionData() {
+}
+

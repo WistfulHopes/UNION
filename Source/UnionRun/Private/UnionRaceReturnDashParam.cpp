@@ -1,0 +1,12 @@
+#include "UnionRaceReturnDashParam.h"
+
+FUnionRaceReturnDashParam::FUnionRaceReturnDashParam() {
+    this->RETURNDASH_SCORE_SUCCESSPIVOT_MIN = 0.00f;
+    this->RETURNDASH_SCORE_SUCCESSPIVOT_MAX = 0.00f;
+    this->RETURNDASH_SCORE_SUCCESSRANGE = 0.00f;
+    this->RETURNDASH_SCORE_SPAWNOFFSET = 0.00f;
+    this->RETURNDASH_SCORE_ACCELE = 0.00f;
+    this->RETURNDASH_SCORE_RELEASE1 = 0.00f;
+    this->RETURNDASH_SCORE_RELEASE2 = 0.00f;
+}
+
