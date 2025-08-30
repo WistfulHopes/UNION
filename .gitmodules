@@ -1,2 +1,3 @@
 [submodule "Plugins/gFurPro"]
+    path = Plugins/gFurPro
     url = https://github.com/WistfulHopes/gFurPro.git
