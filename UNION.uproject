@@ -1,5 +1,6 @@
 {
 	"FileVersion": 3,
+	"EngineAssociation": "",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -52,6 +53,11 @@
 				"Engine",
 				"UMG"
 			]
+		},
+		{
+			"Name": "UnionRunEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
 		}
 	],
 	"Plugins": [
@@ -471,6 +477,11 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": false
+		},
+		{
+			"Name": "ScreenshotPro",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/243f48cf14c841cc985d96c545b28418"
 		}
 	],
 	"TargetPlatforms": [

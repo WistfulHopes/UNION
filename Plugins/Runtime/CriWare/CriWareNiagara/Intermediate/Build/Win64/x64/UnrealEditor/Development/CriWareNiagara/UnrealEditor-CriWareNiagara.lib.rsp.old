@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CriWareNiagara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UNION\Dev\LocalBuilds\Engine\Windows\UNION\Intermediate\Build\Win64\x64\UNIONEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\UNION\Dev\LocalBuilds\Engine\Windows\UNION\Plugins\Runtime\CriWare\CriWareNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\CriWareNiagara\Module.CriWareNiagara.cpp.obj"
+"C:\UNION\Dev\LocalBuilds\Engine\Windows\UNION\Plugins\Runtime\CriWare\CriWareNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\CriWareNiagara\CriWareNiagaraModule.cpp.obj"
+"C:\UNION\Dev\LocalBuilds\Engine\Windows\UNION\Plugins\Runtime\CriWare\CriWareNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\CriWareNiagara\NiagaraDataInterfaceAtomPlayer.cpp.obj"
+"C:\UNION\Dev\LocalBuilds\Engine\Windows\UNION\Plugins\Runtime\CriWare\CriWareNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\CriWareNiagara\Default.rc2.res"
+/OUT:"C:\UNION\Dev\LocalBuilds\Engine\Windows\UNION\Plugins\Runtime\CriWare\CriWareNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\CriWareNiagara\UnrealEditor-CriWareNiagara.lib"

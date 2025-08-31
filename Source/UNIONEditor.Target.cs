@@ -11,5 +11,11 @@ public class UNIONEditorTarget : TargetRules {
 			"UnionSystem",
 			"UnionUI",
 		});
+		RegisterModulesCreatedByRider();
+	}
+
+	private void RegisterModulesCreatedByRider()
+	{
+		ExtraModuleNames.AddRange(new string[] { "UnionRunEditor" });
 	}
 }

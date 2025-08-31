@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CriWareNiagara.cpp.obj": [
+			"CriWareNiagara.init.gen.cpp.obj",
+			"NiagaraDataInterfaceAtomPlayer.gen.cpp.obj",
+			"CriWareNiagaraModule.cpp.obj",
+			"NiagaraDataInterfaceAtomPlayer.cpp.obj"
+		]
+	}
+}
