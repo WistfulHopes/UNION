@@ -1,3 +1,3 @@
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_MODULE(FDefaultGameModuleImpl, UNION);
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, UNION, "UNION");
